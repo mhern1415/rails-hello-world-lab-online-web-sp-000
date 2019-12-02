@@ -1,6 +1,6 @@
 class StaticController < ActionController::Base
   
-  get 
+
   
   
   
