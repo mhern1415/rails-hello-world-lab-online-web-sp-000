@@ -1,1 +1,7 @@
-class StaticController
+class StaticController < ActionController::Base
+  
+  get 
+  
+  
+  
+end
